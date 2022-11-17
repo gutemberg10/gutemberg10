@@ -15,12 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+```js
 import Desenvolvedor from ‘(Ususario)’;
 class  SobreMim extends Desenvolvedor {  
 nome = ‘(Seu nome)’;  
 area =‘(Formação ou atuação)’; 
- local = ‘(Onde mora)’;
+local = ‘(Onde mora)’;
 }
 class Skills extends Desenvolvedor {  
 linguagens  = [‘(linguagens que conhece)’];  
 }
+```
