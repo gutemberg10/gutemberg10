@@ -40,4 +40,8 @@ linguagens  = [‘.NET, C#, SQLSERVER, ’];
   
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{gutemberg10}/count.svg"/></p> 
 <br></div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/gutemberg-nascimento-pcd-9168b41a2/">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gutemberg-nascimento-pcd-9168b41a2/">
+</a>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
